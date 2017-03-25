@@ -1,0 +1,207 @@
+{
+  "Mine.html": {
+    "resources": [
+      "css/feedback.css",
+      "js/feedback.js",
+      "js/mui.view.js"
+    ],
+    "refer": []
+  },
+  "index.html": {
+    "resources": [
+      "fonts/iconfont_money.ttf",
+      "css/souye.css",
+      "fonts/iconfont_foot.ttf",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/iconfont.css",
+      "css/mui.min.css",
+      "img/logo.png",
+      "subindex.html",
+      "css/iconfont_money.css",
+      "css/iconfont_foot.css",
+      "main/subindex.html",
+      "fonts/iconfont.ttf"
+    ],
+    "refer": [
+      "Mine.html",
+      "Inquiry.html",
+      "Health_File.html",
+      "subindex.html",
+      "main/subindex.html",
+      "mine/Mine.html",
+      "healthfile/Health_File.html",
+      "inquiry/Inquiry.html",
+      "main/search/search.html"
+    ]
+  },
+  "Inquiry.html": {
+    "resources": [
+      "css/iconfont_inquiry.css",
+      "img/inquiry2.jpg",
+      "css/inquiry.css",
+      "fonts/iconfont_inquiry.ttf",
+      "css/header.css"
+    ],
+    "refer": []
+  },
+  "Health_File.html": {
+    "resources": [
+      "img/healthfile.jpg",
+      "css/iconfont_health_file.css",
+      "fonts/iconfont_health_file.ttf",
+      "css/health_file.css"
+    ],
+    "refer": []
+  },
+  "subindex.html": {
+    "resources": [
+      "img/test.jpg",
+      "img/lookonline.jpg",
+      "img/jiankang2.jpeg",
+      "fonts/iconfont.ttf",
+      "img/hospital.png",
+      "js/souye.js",
+      "img/jiankang.jpeg",
+      "img/doctor.jpeg"
+    ],
+    "refer": []
+  },
+  "main/subindex.html": {
+    "resources": [
+      "img/test.jpg",
+      "css/souye.css",
+      "img/lookonline.jpg",
+      "img/jiankang2.jpeg",
+      "css/iconfont.css",
+      "css/mui.min.css",
+      "fonts/iconfont.ttf",
+      "img/hospital.png",
+      "js/souye.js",
+      "img/jiankang.jpeg",
+      "css/iconfont_money.css",
+      "img/doctor.jpeg",
+      "css/iconfont_foot.css",
+      "js/mui.min.js"
+    ],
+    "refer": [
+      "main/hosHP.html"
+    ]
+  },
+  "login/login.html": {
+    "resources": [
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css"
+    ],
+    "refer": [
+      "index.html"
+    ]
+  },
+  "mine/Mine.html": {
+    "resources": [
+      "css/feedback.css",
+      "js/feedback.js",
+      "js/mui.view.js"
+    ],
+    "refer": []
+  },
+  "healthfile/Health_File.html": {
+    "resources": [
+      "img/healthfile.jpg",
+      "css/iconfont_health_file.css",
+      "fonts/iconfont_health_file.ttf",
+      "css/health_file.css",
+      "img/doctor.jpeg",
+      "js/mui.min.js",
+      "css/mui.min.css"
+    ],
+    "refer": []
+  },
+  "inquiry/Inquiry.html": {
+    "resources": [
+      "css/iconfont_inquiry.css",
+      "img/inquiry2.jpg",
+      "css/inquiry.css",
+      "fonts/iconfont_inquiry.ttf",
+      "css/header.css",
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "css/iconfont_foot.css"
+    ],
+    "refer": []
+  },
+  "main/search/search2.html": {
+    "resources": [
+      "main/search/search_info.html",
+      "css/search.css",
+      "js/mui.min.js",
+      "js/webviewGroup.js",
+      "css/mui.min.css",
+      "css/search_history.css",
+      "css/search_info.css"
+    ],
+    "refer": [
+      "main/search/search_info.html",
+      "main/search/search_info_dt.html",
+      "main/search/search_info_hp.html",
+      "main/search/search_info_jb.html",
+      "main/search/search_info_ks.html"
+    ]
+  },
+  "main/search/search_info.html": {
+    "resources": [
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "css/search_history.css",
+      "css/search_info.css",
+      "css/iconfont_money.css"
+    ],
+    "refer": []
+  },
+  "main/search/search.html": {
+    "resources": [
+      "css/search.css",
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "css/search_history.css",
+      "css/search_info.css"
+    ],
+    "refer": [
+      "main/search/search2.html"
+    ]
+  },
+  "main/search/search_info_dt.html": {
+    "resources": [
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "css/search_info.css",
+      "css/iconfont_money.css"
+    ],
+    "refer": []
+  },
+  "main/search/search_info_hp.html": {
+    "resources": [
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "css/search_info.css"
+    ],
+    "refer": []
+  },
+  "main/search/search_info_jb.html": {
+    "resources": [
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "css/search_info.css"
+    ],
+    "refer": []
+  },
+  "main/search/search_info_ks.html": {
+    "resources": [
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "css/search_info.css"
+    ],
+    "refer": []
+  }
+}
